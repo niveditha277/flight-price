@@ -7,10 +7,7 @@ This is a Flask web application that predicts flight ticket prices using a machi
 Ensure you have Python 3.6 or later installed. Clone the repository and install dependencies:
 ```bash
 pip install -r requirements.txt
-```
 
-## Deployment
-The application can be deployed on Heroku by following the official [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python).
 
 ## Directory Structure
 ```
