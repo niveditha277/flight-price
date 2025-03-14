@@ -8,7 +8,7 @@ Ensure you have Python 3.6 or later installed. Clone the repository and install 
 ```bash
 pip install -r requirements.txt
 
-
+```
 ## Directory Structure
 ```
 ├── static/css
